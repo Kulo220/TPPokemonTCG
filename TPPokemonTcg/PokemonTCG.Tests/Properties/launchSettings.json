@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PokemonTCG.Tests": {
+      "commandName": "Project"
+    },
+    "Profil 1": {
+      "commandName": "Project"
+    }
+  }
+}
