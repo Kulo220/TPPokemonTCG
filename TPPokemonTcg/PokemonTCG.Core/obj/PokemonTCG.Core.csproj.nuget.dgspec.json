@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Core\\PokemonTCG.Core.csproj": {}
+    "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Core\\PokemonTCG.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Core\\PokemonTCG.Core.csproj": {
+    "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Core\\PokemonTCG.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Core\\PokemonTCG.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Core\\PokemonTCG.Core.csproj",
         "projectName": "PokemonTCG.Core",
-        "projectPath": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Core\\PokemonTCG.Core.csproj",
+        "projectPath": "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Core\\PokemonTCG.Core.csproj",
         "packagesPath": "C:\\Users\\Wallon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Core\\obj\\",
+        "outputPath": "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wallon\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CoVu/wFB+vo=",
+  "dgSpecHash": "VmserlgJpwM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Tests\\PokemonTCG.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Tests\\PokemonTCG.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wallon\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
     "C:\\Users\\Wallon\\.nuget\\packages\\microsoft.codecoverage\\18.0.1\\microsoft.codecoverage.18.0.1.nupkg.sha512",

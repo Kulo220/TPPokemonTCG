@@ -63,7 +63,7 @@
             grpJoueur.Size = new Size(514, 341);
             grpJoueur.TabIndex = 0;
             grpJoueur.TabStop = false;
-            grpJoueur.Text = "grpJoueur";
+            grpJoueur.Text = "groupeJoueur";
             // 
             // btnPasserTour
             // 
@@ -181,9 +181,9 @@
             lblMessage.AutoSize = true;
             lblMessage.Location = new Point(140, 400);
             lblMessage.Name = "lblMessage";
-            lblMessage.Size = new Size(66, 15);
+            lblMessage.Size = new Size(78, 15);
             lblMessage.TabIndex = 12;
-            lblMessage.Text = "lblMessage";
+            lblMessage.Text = "labelMessage";
             lblMessage.Click += lblMessage_Click;
             // 
             // FrmPartie

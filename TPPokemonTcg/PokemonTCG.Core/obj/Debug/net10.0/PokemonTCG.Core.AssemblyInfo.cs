@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokemonTCG.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e13f26512fac277e4f2717001faa94edf51f6016")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokemonTCG.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokemonTCG.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

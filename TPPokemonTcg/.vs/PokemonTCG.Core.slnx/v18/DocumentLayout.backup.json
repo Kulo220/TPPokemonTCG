@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F761C911-EE83-AA89-BCF7-04089BA23B01}|PokemonTCG.Tests\\PokemonTCG.Tests.csproj|solutionrelative:pokemontcg.tests\\frmpartietests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F761C911-EE83-AA89-BCF7-04089BA23B01}|PokemonTCG.Tests\\PokemonTCG.Tests.csproj|c:\\users\\wallon\\source\\repos\\pokemontcg.core\\pokemontcg.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F761C911-EE83-AA89-BCF7-04089BA23B01}|PokemonTCG.Tests\\PokemonTCG.Tests.csproj|solutionrelative:pokemontcg.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62DFC237-C50C-1F89-B573-BABE8EE77AF0}|PokemonTCG.WinForms\\PokemonTCG.WinForms.csproj|c:\\users\\wallon\\source\\repos\\pokemontcg.core\\pokemontcg.winforms\\frmpartie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62DFC237-C50C-1F89-B573-BABE8EE77AF0}|PokemonTCG.WinForms\\PokemonTCG.WinForms.csproj|solutionrelative:pokemontcg.winforms\\frmpartie.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{62DFC237-C50C-1F89-B573-BABE8EE77AF0}|PokemonTCG.WinForms\\PokemonTCG.WinForms.csproj|c:\\users\\wallon\\source\\repos\\pokemontcg.core\\pokemontcg.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62DFC237-C50C-1F89-B573-BABE8EE77AF0}|PokemonTCG.WinForms\\PokemonTCG.WinForms.csproj|solutionrelative:pokemontcg.winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F761C911-EE83-AA89-BCF7-04089BA23B01}|PokemonTCG.Tests\\PokemonTCG.Tests.csproj|c:\\users\\wallon\\source\\repos\\pokemontcg.core\\pokemontcg.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F761C911-EE83-AA89-BCF7-04089BA23B01}|PokemonTCG.Tests\\PokemonTCG.Tests.csproj|solutionrelative:pokemontcg.tests\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C3873C7-6E70-F38F-07F3-1FDE7EBDC7C1}|PokemonTCG.Core\\PokemonTCG.Core.csproj|c:\\users\\wallon\\source\\repos\\pokemontcg.core\\pokemontcg.core\\attaque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -88,14 +88,14 @@
               "RelativeDocumentMoniker": "PokemonTCG.Tests\\FrmPartieTests.cs",
               "ToolTip": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Tests\\FrmPartieTests.cs",
               "RelativeToolTip": "PokemonTCG.Tests\\FrmPartieTests.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAIwI8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-07T09:16:05.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "FrmPartie.cs [Conception]",
               "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.WinForms\\FrmPartie.cs",
               "RelativeDocumentMoniker": "PokemonTCG.WinForms\\FrmPartie.cs",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FrmPartie.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.WinForms\\FrmPartie.Designer.cs",
               "RelativeDocumentMoniker": "PokemonTCG.WinForms\\FrmPartie.Designer.cs",
@@ -120,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FrmPartie.cs",
               "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.WinForms\\FrmPartie.cs",
               "RelativeDocumentMoniker": "PokemonTCG.WinForms\\FrmPartie.cs",
@@ -133,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.WinForms\\Program.cs",
               "RelativeDocumentMoniker": "PokemonTCG.WinForms\\Program.cs",
@@ -146,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PokemonTCG.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Tests\\PokemonTCG.Tests.csproj",
               "RelativeDocumentMoniker": "PokemonTCG.Tests\\PokemonTCG.Tests.csproj",
@@ -159,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Test1.cs",
               "DocumentMoniker": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Tests\\Test1.cs",
               "RelativeDocumentMoniker": "PokemonTCG.Tests\\Test1.cs",
@@ -167,7 +167,8 @@
               "RelativeToolTip": "PokemonTCG.Tests\\Test1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T08:23:08.239Z"
+              "WhenOpened": "2026-10-07T08:23:08.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

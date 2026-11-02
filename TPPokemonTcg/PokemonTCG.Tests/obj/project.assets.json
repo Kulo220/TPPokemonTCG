@@ -2318,11 +2318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Tests\\PokemonTCG.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Tests\\PokemonTCG.Tests.csproj",
       "projectName": "PokemonTCG.Tests",
-      "projectPath": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Tests\\PokemonTCG.Tests.csproj",
+      "projectPath": "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Tests\\PokemonTCG.Tests.csproj",
       "packagesPath": "C:\\Users\\Wallon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wallon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2340,11 +2340,11 @@
           "framework": "net10.0-windows7.0",
           "targetAlias": "net10.0-windows",
           "projectReferences": {
-            "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Core\\PokemonTCG.Core.csproj": {
-              "projectPath": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.Core\\PokemonTCG.Core.csproj"
+            "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Core\\PokemonTCG.Core.csproj": {
+              "projectPath": "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.Core\\PokemonTCG.Core.csproj"
             },
-            "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.WinForms\\PokemonTCG.WinForms.csproj": {
-              "projectPath": "C:\\Users\\Wallon\\source\\repos\\PokemonTCG.Core\\PokemonTCG.WinForms\\PokemonTCG.WinForms.csproj"
+            "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.WinForms\\PokemonTCG.WinForms.csproj": {
+              "projectPath": "C:\\Users\\Wallon\\source\\repos\\TPPokemonTCG\\TPPokemonTcg\\PokemonTCG.WinForms\\PokemonTCG.WinForms.csproj"
             }
           }
         }
