@@ -67,7 +67,7 @@
             // 
             // btnPasserTour
             // 
-            btnPasserTour.Location = new Point(326, 259);
+            btnPasserTour.Location = new Point(288, 259);
             btnPasserTour.Name = "btnPasserTour";
             btnPasserTour.Size = new Size(109, 23);
             btnPasserTour.TabIndex = 10;
@@ -78,7 +78,7 @@
             // btnAttaquer
             // 
             btnAttaquer.BackColor = SystemColors.ControlLight;
-            btnAttaquer.Location = new Point(285, 219);
+            btnAttaquer.Location = new Point(288, 220);
             btnAttaquer.Name = "btnAttaquer";
             btnAttaquer.Size = new Size(109, 23);
             btnAttaquer.TabIndex = 9;
@@ -181,9 +181,9 @@
             lblMessage.AutoSize = true;
             lblMessage.Location = new Point(140, 400);
             lblMessage.Name = "lblMessage";
-            lblMessage.Size = new Size(78, 15);
+            lblMessage.Size = new Size(66, 15);
             lblMessage.TabIndex = 12;
-            lblMessage.Text = "labelMessage";
+            lblMessage.Text = "lblMessage";
             lblMessage.Click += lblMessage_Click;
             // 
             // FrmPartie
