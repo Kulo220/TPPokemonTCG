@@ -10,6 +10,7 @@ namespace TPpokemon
         public TypePokemon Type { get; set; }
         public int EnergiesAttachees { get; set; }
         public List<Attaque> Attaques { get; set; } = new List<Attaque>();
+        string Rarete { get; set; }
         public bool EstKO
         {
             get
